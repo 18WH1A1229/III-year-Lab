@@ -14,4 +14,4 @@
 ### 5.for(i=1;i<n;i++) -Choose vertex w,such that distance[w] is minimum and visited[w] is 0.Mark visited[w] as 1,-Recalculate the shortest distance of remaining vertices from the source.-Only the vertices not marked as 1 in array visited[] should be considered for recalculation of distance ie. for each vertex v
 ### if(visited[v]==0] distance[v]=min(distance[v],distance[w]+cost[w][v])
 ## OUTPUT:
-
+![output](DijsktrasAlgorithm)
